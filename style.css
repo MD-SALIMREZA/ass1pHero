@@ -9,9 +9,7 @@ margin: auto;
 margin-bottom: 10vh;
 background-color: antiquewhite;
 }
-#header_content img{
-    height:80vh;
-}
+
 .header-parent{
     display: flex;
     width: 80%;
@@ -21,6 +19,9 @@ background-color: antiquewhite;
     max-width: 50%;
     height: 35vh;
     margin: auto;
+}
+#header_content img{
+    height:80vh;
 }
 #child1{
     padding-top:15vh ;
